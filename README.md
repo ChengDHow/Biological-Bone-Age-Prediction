@@ -1,13 +1,13 @@
-# Biological-Bone-Age-Prediction
+# Biological Bone Age Prediction
 
 ## About
-The deviation between chronological age (CA) and biological age (BA) differs between individuals due to the variation in biological properties and lifestyle behaviors, which may result in differences in the speed of aging. Due to the strong association between aging and deterioration of bone, prediction of biological bone age from bone properties may prove as a viable biomarker for aging.
+The chronological age (CA), which depends on the date of birth, and biological age (BA), which depends on the organ/tissue condition, differs between individuals due to the variation in biological properties and lifestyle behaviors, resulting in differences in the speed of aging. Due to the strong association between aging and deterioration of bone, prediction of biological bone age from bone properties may prove as a viable biomarker for aging.
 
 ## Contents
-- Dataset
-- Data Imputation
-- Deep learning prediction model
-- Evaluation of prediction model
+- [Dataset](https://github.com/ChengDHow/Biological-Bone-Age-Prediction/tree/main#dataset)
+- [Data Imputation](https://github.com/ChengDHow/Biological-Bone-Age-Prediction/tree/main#data-imputation)
+- [Deep learning prediction model](https://github.com/ChengDHow/Biological-Bone-Age-Prediction/tree/main#deep-learning-prediction-model)
+- [Evaluation of prediction model](https://github.com/ChengDHow/Biological-Bone-Age-Prediction/tree/main#evaluation-of-prediction-model)
 
 ## Dataset
 
